@@ -3,7 +3,7 @@
     <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="300" alt="Coding Progress">
 </p>
 
-## Hi there 👋 I'm Swean Namingoda!
+<p align="center"> ## Hi there 👋 I'm Swean Namingoda! </p>
 
 <!--
 **sweanTshelmi/sweanTshelmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
