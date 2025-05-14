@@ -1,3 +1,15 @@
+<table>
+    <tr>
+      <td valign="top" width="30%">
+        
+
+        I'm a software engineering student at NIBM, passionate about tech and always working to improve my skills and grow in the field.
+  
+ 
+  </td>
+  <td valign="top" width="70%">
+
+
 <!-- Profile Banner -->
 <p align="center">
     <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="300" alt="Coding Progress">
