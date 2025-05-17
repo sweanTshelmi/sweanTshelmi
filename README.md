@@ -28,7 +28,7 @@ Here’s a bit about me:
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img alt="Portfolio" src="[[https://img.shields.io/badge/Portfolio-%23f9a825?style=flat&logo=google-chrome&logoColor=white](https://stalwart-queijadas-9864de.netlify.app/)](https://img.shields.io/badge/Portfolio-%23f9a825?style=flat&amp;logo=google-chrome&amp;logoColor=white" style="max-width: 100%;)" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23f9a825?style=flat&amp;logo=google-chrome&amp;logoColor=white" style="max-width: 100%;" />
   </a>
 </p>
 
