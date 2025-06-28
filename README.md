@@ -27,7 +27,7 @@ Here’s a bit about me:
   <a href="https://www.linkedin.com/in/swean-naminigoda/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://stalwart-queijadas-9864de.netlify.app/" target="_blank">
+  <a href="https://hilarious-kitten-f58a9f.netlify.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23f9a825?style=flat&amp;logo=google-chrome&amp;logoColor=white" style="max-width: 100%;" />
   </a>
 </p>
