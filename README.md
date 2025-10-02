@@ -13,7 +13,7 @@ Here’s a bit about me:
 
 - 🌱 I’m currently learning the **React**  
 - 🤝 I’m open to collaborating on innovative **web development** projects  
-- 💡 I’m looking for guidance with **backend architecture** and **deployment best practices**  
+- 💡 I’m looking for guidance with **frontend architecture** and **deployment best practices**  
 - 📫 How to reach me: **swenshelmi@gmail.com**  
 - 👩 Pronouns: **She/Her**  
 - ✨ Fun fact: I love turning complex problems into elegant, intuitive web apps
